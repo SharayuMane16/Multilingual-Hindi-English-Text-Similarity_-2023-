@@ -1,0 +1,2 @@
+what is semantic similarity in linguistics
+the semantic textual similarity sts problem attempts to compare two texts and decide whether they are similar in meaning it was a notoriously hard problem due to the nuances of natural language where two texts could be similar despite not having a single word in common
